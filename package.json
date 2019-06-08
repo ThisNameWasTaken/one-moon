@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "./images/icon-128.png",
+  "icon": "images/icon-128.png",
   "galleryBanner": {
     "theme": "dark",
     "color": "#242b2e"
