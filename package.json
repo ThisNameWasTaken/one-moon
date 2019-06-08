@@ -3,6 +3,7 @@
   "displayName": "One Moon",
   "description": "A dark theme inspired by Atom's One Dark theme",
   "version": "1.0.0",
+  "publisher": "ThisNameWasTaken",
   "engines": {
     "vscode": "^1.35.0"
   },
