@@ -9,6 +9,8 @@
     "badge.background": "#7e57c2",
     "badge.foreground": "#d4d4d4",
 
+    "scrollbar.shadow": "#00000000",
+
     // Button control
     // https://code.visualstudio.com/api/references/theme-color#button-control
     "button.hoverBackground": "#673ab7",
@@ -46,7 +48,9 @@
     "editorGroupHeader.tabsBorder": "#00000000",
     "tab.activeBackground": "#242b2e",
     "tab.activeForeground": "#d4d4d4",
-    "tab.border": "#4d4d4d",
+    "tab.activeBorderTop": "#7e57c2",
+    "tab.hoverBackground": "#242b2ea4",
+    // "tab.border": "#4d4d4d",
     "tab.inactiveBackground": "#1d2325",
     "tab.inactiveForeground": "#7f7f7f",
     "tab.unfocusedActiveForeground": "#d4d4d4",
@@ -263,7 +267,7 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": "keyword, storage.type, storage.modifier, punctuation.separator.pointer-access.c",
+      "scope": "keyword, storage.type, storage.modifier, punctuation.separator.pointer-access.c, punctuation.separator.pointer-access.cpp",
       "settings": {
         "foreground": "#c27fd6"
       }
@@ -506,6 +510,13 @@
     {
       "name": "round bracket",
       "scope": "meta.brace.round.js",
+      "settings": {
+        "foreground": "#d4d4d4"
+      }
+    },
+    {
+      "name": "TypeScript Colon",
+      "scope": "keyword.operator.type.annotation.ts",
       "settings": {
         "foreground": "#d4d4d4"
       }
