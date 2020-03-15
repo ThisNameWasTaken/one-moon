@@ -246,7 +246,7 @@
     },
     {
       "name": "DOM Variable, DOM Property, Object Property",
-      "scope": "support.variable.dom.js, variable.other.object.property.js, variable.other.property.js, variable.other.constant.property.js, support.variable.property.dom, variable.other.constant.property.ts, variable.other.constant.property.tsx, support.variable.property.js, support.variable.property.ts, support.variable.property.tsx, variable.other.object.property.ts, variable.other.object.property.tsx, variable.other.property.ts, variable.other.property.tsx, support.variable.property.ts, support.variable.property.tsx, variable.object.property.ts, variable.object.property.tsx, support.class.component.tsx",
+      "scope": "variable.other.property, support.variable.dom.js, variable.other.object.property.js, variable.other.property.js, variable.other.constant.property.js, support.variable.property.dom, variable.other.constant.property.ts, variable.other.constant.property.tsx, support.variable.property.js, support.variable.property.ts, support.variable.property.tsx, variable.other.object.property.ts, variable.other.object.property.tsx, variable.other.property.ts, variable.other.property.tsx, support.variable.property.ts, support.variable.property.tsx, variable.object.property.ts, variable.object.property.tsx, support.class.component.tsx",
       "settings": {
         "foreground": "#e15a60"
       }
